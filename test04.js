@@ -5,7 +5,7 @@ function acc() {
 	}
 	console.log('Sum : ' + sum);
 }
-
+//js test
 acc();
 acc(1,2,3,4,5);
 console.log(eval('3+4'));
